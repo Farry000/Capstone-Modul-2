@@ -5,4 +5,4 @@
 4. Lalu melakukan Explatory Data Analys (EDA) dengan melakukan descriptive statistc, Kemudian membuat Histogram graph untuk melihat penyebaran data numeric untuk tiap kolom.
 5. Setelah itu lakukan data cleaning untuk setiap outlier yang ditemukan.
 6. Terakhir barulah lakukan analisa dari semua data yang sudah dirapihkan.
-7. Memberikan insight dari hasin analisa yang didapat.
+7. Memberikan insight dari hasil analisa yang didapat.
